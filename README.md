@@ -1,5 +1,15 @@
 # prathwiknayak-readme.md
-# 💫 About Me:
+# 💫 About Me:Hi 👋 I’m Prathwik Nayak
+
+💻 B.Tech CSE student passionate about backend development and full-stack systems  
+🚀 Working with MERN stack, REST APIs, MongoDB, Firebase, and cloud deployment  
+🧠 Interested in building real-world, impact-driven applications  
+🔐 Focused on clean architecture, scalable APIs, and authentication systems  
+
+📌 Currently building: Full-stack platforms with admin dashboards & AI integrations  
+📚 Learning: System design, backend optimization, and production-ready deployments  
+🤝 Open to collaborations on meaningful tech projects
+
   
 
 
